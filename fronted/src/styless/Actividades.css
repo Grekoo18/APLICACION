@@ -1,0 +1,29 @@
+.actividades-container {
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: left;
+}
+
+.input-tarea {
+  margin-bottom: 10px;
+}
+
+.select-prioridad {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.btn-agregar {
+  margin-bottom: 20px;
+}
+
+.lista-tareas {
+  margin-top: 20px;
+}
+
+.tarea-completada {
+  color: gray;
+}
+.tarea-no-completada {
+  color: black;
+}

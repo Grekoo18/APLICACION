@@ -1,0 +1,13 @@
+.estadisticas-container {
+  max-width: 800px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.estadisticas-row {
+  margin-bottom: 30px;
+}
+
+.estadisticas-grafico {
+  margin-top: 20px;
+}
